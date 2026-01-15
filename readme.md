@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logoimmage.png" width="520" alt="BaseCreate" />
+  <img src="assets/logoimmage.png" width="520" alt="BaseCreate" />
 </p>
 
 <h1 align="center">BaseCreate</h1>
