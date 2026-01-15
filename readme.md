@@ -90,7 +90,7 @@ This pack is made for players who enjoy:
 
 ---
 <p align="center">
-  <img src="assets/logov.gif" width="520" alt="BaseCreate" />
+  <img src="assets/lyron.gif" width="520" alt="BaseCreate" />
 </p>
 
 ## License
