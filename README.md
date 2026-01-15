@@ -1,2 +1,12 @@
-# BaseCreatre
-BaseCreate is a Create-focused SMP modpack built for large factories, player-driven economy, and recursive automation. It includes all major Create addons plus performance and stability mods. Designed for long-term server play where systems, trade, and engineering matter.
+# BaseCreate
+
+This repository contains BaseCreate’s **server-first** pack content (configs/scripts/docs).  
+For the styled README, open **README.html**.
+
+- **Open:** `README.html`
+- **Assets:** `assets/` (logos + screenshot)
+
+## License Notice
+
+MIT applies only to original content in this repo (configs, scripts, datapacks, docs, branding where applicable).  
+Mods remain the property of their respective authors and are distributed under their own licenses.
