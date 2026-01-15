@@ -6,7 +6,7 @@
 
 <h1 align="center">BaseCreate</h1>
 <p align="center">
-[Discord server](https://discord.gg/FhtAhGRmMu)
+  <a href="https://discord.gg/FhtAhGRmMu">Join the Discord</a>
 </p>
 <p align="center">
   A large-scale Create-focused modpack built around automation, factories,
