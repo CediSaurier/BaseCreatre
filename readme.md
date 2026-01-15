@@ -71,6 +71,9 @@ This pack is made for players who enjoy:
 - **RAM:** 6–10 GB recommended  
 
 ---
+<p align="center">
+  <img src="logov2.gif" width="520" alt="BaseCreate" />
+</p>
 
 ## License
 
