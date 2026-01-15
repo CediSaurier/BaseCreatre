@@ -74,7 +74,7 @@ This pack is made for players who enjoy:
 
 ### Manual Installation
 1. Install **Minecraft Forge 1.20.1**  
-2. Download the modpack ZIP  
+2. Download the **BaseCreate (Prism and everytihn else) ZIP** form the Releases page
 3. Extract the contents into your Minecraft instance folder  
 4. Make sure the following folders exist:
    - `mods`
